@@ -1,3 +1,3 @@
 # GOfermBASIC
 GOfermentorNET Blynk app support files
-version 0.952 Apr 16 2020
+version 0.954 May 14 2020
